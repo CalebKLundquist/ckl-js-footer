@@ -1,0 +1,25 @@
+{
+  "name": "ckl-js-footer",
+  "version": "0.1.0",
+  "description": "This module generates a footer with year and time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalebKLundquist/ckl-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Caleb Lundquist <CalebKLundquist@gmail.com> (https://www.npmjs.com/~calebklundquist)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CalebKLundquist/ckl-js-footer/issues"
+  },
+  "homepage": "https://github.com/CalebKLundquist/ckl-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
